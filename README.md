@@ -1,2 +1,2 @@
 # Demoapp
-demoapp
+demoapp JNG-1
