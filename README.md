@@ -1,2 +1,2 @@
 # Demoapp
-demoapp JNG-3 Test Smart commit3
+demoapp JNG-2 Test Smart commit4
